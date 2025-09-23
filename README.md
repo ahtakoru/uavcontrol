@@ -1,5 +1,4 @@
-# uavcontrol
-UAV Control Design and Closed-Loop Stability Analysis Toolbox
+# A Quadrotor UAV Closed-Loop Stability Analysis Toolbox
 
 Based on the paper:
 
