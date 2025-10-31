@@ -2,4 +2,4 @@
 
 Based on the paper:
 
-A. T. Koru and Y. Wan, On Quadrotor UAV Control and Mixing: Stability of the Unique Equilibrium Point under Geometric Constraint, submitted to IEEE Transactions on Systems, Man, and Cybernetics: Systems.
+A. T. Koru and Y. Wan, On Quadrotor UAV Stability: Cascaded Control and Static Mixing under an Actuator Configuration Constraint, submitted to IEEE Transactions on Systems, Man, and Cybernetics: Systems.
