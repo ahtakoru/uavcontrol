@@ -26,10 +26,10 @@ function designLevel1ControllerTuning(uav)
 % See also: LINEARIZEDMATRICESLEVEL1, SETDEFAULTPARAMS,
 %           COMPUTEMINTHRUSTWORSTCASE, DESIGNLEVEL1CONTROLLERILMI
 
-% --------------------------------------------------------------------------
-% Author:  Ahmet Taha Koru
-% License: MIT — see LICENSE in repository root
-% --------------------------------------------------------------------------
+% -------------------------------------------------------------------------
+% Copyright (c) 2026 Ahmet Taha Koru
+% SPDX-License-Identifier: MIT
+% -------------------------------------------------------------------------
 
     %% --- Initialization -------------------------------------------------
     uav.Tmin = computeMinThrustWorstCase(uav, 30);
